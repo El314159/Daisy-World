@@ -191,4 +191,10 @@ https://personal.ems.psu.edu/~dmb53/DaveSTELLA/Daisyworld/daisyworld_model.htm
 
 https://de.wikipedia.org/wiki/Daisyworld
 
+https://www.pik-potsdam.de/~bloh/ 
+
+https://ccl.northwestern.edu/netlogo/models/Daisyworld 
+
+https://www.youtube.com/watch?v=sCxIqgZA7ag
+
 """)
