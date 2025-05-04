@@ -11,6 +11,7 @@ if "sim_data" not in st.session_state:
 st.title("Daisyworld Simulation")
 st.markdown("""
 Daisyworld ist ein Gedankenexperiment, welches 1983 vom englischen Klimaforscher James Lovelock entwickelt wurde. Es ist ein vereinfachtes Modell eines Planeten ähnlich der Erde, welcher um einen Sonnenähnlichen Stern kreist. Es zeigt, wie Leben das Klima eines Planeten stabil halten kann, ohne Planung oder Absicht. 
+
 Auf dem Planeten wachsen nur zwei Arten von Blumen:
 
 •  Weisse Gänseblümchen, welche viel Sonnenlicht reflektieren, eine hohe Albedo haben und dadurch ihre Umgebung abkühlen
